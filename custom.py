@@ -1,9 +1,11 @@
 # Generated using https://godot-build-options-generator.github.io
 
+debug_symbols = "no"
+lto = "full"
 extra_suffix = "only_2d"
 production = "yes"
 disable_3d = "yes"
-optimize = "size"
+optimize = "size_extra"
 disable_advanced_gui = "yes"
 deprecated = "no"
 module_basis_universal_enabled = "no"
