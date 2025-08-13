@@ -2,7 +2,6 @@
 
 debug_symbols = "no"
 lto = "full"
-extra_suffix = "only_2d"
 production = "yes"
 disable_3d = "yes"
 optimize = "size_extra"
