@@ -1,7 +1,6 @@
 # Generated using https://godot-build-options-generator.github.io
 
 debug_symbols = "no"
-lto = "full"
 production = "yes"
 disable_3d = "yes"
 optimize = "size_extra"
