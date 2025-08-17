@@ -1,5 +1,5 @@
 name: 🔗 GHA
-on: [workflow_dispatch,push]
+on: [workflow_dispatch]
 
 concurrency:
   group: ${{ github.workflow }}|${{ github.ref_name }}
